@@ -4,8 +4,9 @@ Jaemin Kim*, Yohan Na*, Kangmin Kim, Sang Rak Lee, Dong-Kyu Chae
 
 Hanyang University
 
-## Create SgTS datset
-![image](https://github.com/nayohan/SentiCSE/assets/54879393/6de74feb-b90e-408f-a4e4-a020dbda5060)
+## Create SgTS dataset
+![image](https://github.com/nayohan/SentiCSE/assets/54879393/1e6bb6b0-b4a8-4d9f-8429-d7b7d9f3e181)
+
 
 
 ## Quick Start for Fine-tunning
