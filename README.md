@@ -9,6 +9,7 @@ DILab, Hanyang University
 
 ## Create SgTS dataset
 You can create the SgTS datsets. find download code in SentiCSE/utils/create_valid_ssts_dataset.ipynb
+
 ![image](https://github.com/nayohan/SentiCSE/assets/54879393/1e6bb6b0-b4a8-4d9f-8429-d7b7d9f3e181)
 
 
