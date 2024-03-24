@@ -1,7 +1,10 @@
 # SentiCSE: A Sentiment-aware Contrastive Sentence Embedding Framework with Sentiment-guided Textual Similarity
 Jaemin Kim*, Yohan Na*, Kangmin Kim, Sang Rak Lee, Dong-Kyu Chae
 
-Hanyang University
+
+## Introduction
+DILab, Hanyang University
+Our paper was published in LREC-COLING 2024 .
 
 ## Create SgTS dataset
 You can create the SgTS datsets. find download code in SentiCSE/utils/create_valid_ssts_dataset.ipynb
