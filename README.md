@@ -1,5 +1,4 @@
-# SentiCSE
-## SentiCSE: A Sentiment-aware Contrastive Sentence Embedding Framework with Sentiment-guided Textual Similarity
+# SentiCSE: A Sentiment-aware Contrastive Sentence Embedding Framework with Sentiment-guided Textual Similarity
 Jaemin Kim*, Yohan Na*, Kangmin Kim, Sang Rak Lee, Dong-Kyu Chae
 
 Hanyang University
@@ -32,8 +31,12 @@ pip install transformers==4.2.1
 pip install -r requirements.txt
 ```
 
-### Train SentiCSE
+### Pre-training SentiCSE
 ```bash
 bash run_senticse_pretrain.sh
+```
+
+### Evaluation (Downstream Tasks)
+```bash
 bash run_senticse_linear_probe.sh
 ```
