@@ -4,7 +4,8 @@ Jaemin Kim*, Yohan Na*, Kangmin Kim, Sang Rak Lee, Dong-Kyu Chae
 
 ## Introduction
 DILab, Hanyang University
-Our paper was published in LREC-COLING 2024 .
+
+**Our paper was published in LREC-COLING 2024.**
 
 ## Create SgTS dataset
 You can create the SgTS datsets. find download code in SentiCSE/utils/create_valid_ssts_dataset.ipynb
