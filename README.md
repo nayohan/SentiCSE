@@ -72,6 +72,10 @@ pip install -r requirements.txt
 
 ### Pre-training SentiCSE
 ```bash
+# run few-shot
+run_few_shot_exp.sh
+
+#run linear-probing
 bash run_senticse_pretrain.sh
 ```
 
