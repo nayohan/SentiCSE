@@ -72,10 +72,6 @@ pip install -r requirements.txt
 
 ### Pre-training SentiCSE
 ```bash
-# run few-shot
-run_few_shot_exp.sh
-
-#run linear-probing
 bash run_senticse_pretrain.sh
 ```
 
@@ -83,6 +79,10 @@ bash run_senticse_pretrain.sh
 Our evaluation code for sentence embeddings is based on a modified version of SentEval. It evaluates sentence embeddings on Sentiment-guided textual similarity (SgTS) tasks and downstream transfer tasks. For SgTS tasks, our evaluation takes the "all" setting, and report Spearman's correlation.
 
 ```bash
+# run few-shot
+run_few_shot_exp.sh
+
+#run linear-probing
 bash run_senticse_linear_probe.sh
 ```
 
