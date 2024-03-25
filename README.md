@@ -105,7 +105,7 @@ The main contributors of the work are:
 Please cite the repo if you use the data or code in this repo.
 
 ```
-@article{2024SentiCES,
+@article{2024SentiCSE,
   title={SentiCSE: A Sentiment-aware Contrastive Sentence Embedding Framework with Sentiment-guided Textual Similarity},
   author={Kim, Jaemin and Na, Yohan and Kim, Kangmin and Lee, Sangrak and Chae, Dong-Kyu},
   journal={Proceedings of the 30th International Conference on Computational Linguistics (COLING)},
