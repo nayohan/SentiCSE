@@ -80,7 +80,7 @@ Our evaluation code for sentence embeddings is based on a modified version of Se
 
 ```bash
 # run few-shot
-run_few_shot_exp.sh
+bash run_few_shot_exp.sh
 
 #run linear-probing
 bash run_senticse_linear_probe.sh
