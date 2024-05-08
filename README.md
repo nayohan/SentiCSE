@@ -5,6 +5,8 @@ DILab, Hanyang University
 
 **Our paper was published in LREC-COLING 2024.**
 
+Paper link : [https://arxiv.org/abs/2404.01104](https://arxiv.org/abs/2404.01104)
+
 ## Introduction
 The overview of SentiCSE. In the sentence-level objective, we take two anchors, one for `positive' polarity and the other for `negative' polarity. We then encourage the sentiment representations to be more close to the corresponding sentences belonging to the same polarity, and to be far from the corresponding sentences associated with different polarities. In the word-level objective, our model tries to predict the masked words as in conventional MLM.
 
